@@ -1,0 +1,6 @@
+# settings.py
+WIDTH, HEIGHT = 800, 600
+DARK_BLUE = (10, 10, 30)
+NEON_CYAN = (0, 255, 255)
+NEON_RED = (255, 0, 50)
+WHITE = (255, 255, 255)
