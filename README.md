@@ -13,3 +13,17 @@ Game *Action-Shooter* 2D bertema futuristik yang dibangun menggunakan bahasa pem
 2. Instal kebutuhan sistem:
    ```bash
    pip install -r requirements.txt
+
+Jalankan game:
+
+Bash
+python main.py
+Kontrol
+WASD: Menggerakkan pesawat.
+
+Klik Kiri Mouse: Menembak laser.
+
+Spasi: Memulai game / Restart setelah Game Over.
+
+Lisensi
+Proyek ini dilisensikan di bawah lisensi MIT.
