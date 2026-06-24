@@ -14,16 +14,16 @@ Game *Action-Shooter* 2D bertema futuristik yang dibangun menggunakan bahasa pem
    ```bash
    pip install -r requirements.txt
 
-Jalankan game:
+## Jalankan game:
 
-Bash
+```Bash
 python main.py
 Kontrol
 WASD: Menggerakkan pesawat.
 
-Klik Kiri Mouse: Menembak laser.
+## Klik Kiri Mouse: Menembak laser.
 
-Spasi: Memulai game / Restart setelah Game Over.
+## Spasi: Memulai game / Restart setelah Game Over.
 
-Lisensi
+## Lisensi
 Proyek ini dilisensikan di bawah lisensi MIT.
